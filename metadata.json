@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "Gestión de Tareas cálida y minimalista con fechas de creación y configuración de usuario personalizable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
